@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<catalog>
+    <pre-catalog>
+        <product>
+            <id>1</id>
+            <image>/images/first cm.png</image>
+            <title>Nivona NIGS 130 Café Grano</title>
+            <info>Мощность 105 Вт</info>
+            <info>Ёмкость для зерен 205 г</info>
+            <info>12 x 28 x 20 см</info>
+            <cost>435 руб.</cost>
+            <button>/product</button>
+        </product>
+        <product>
+            <id>2</id>
+            <image>/images/second cm.png</image>
+            <title>Kitfort KT-717</title>
+            <info>Мощность 115 Вт</info>
+            <info>Ёмкость для зерен 215 г</info>
+            <info>12 x 28 x 23 см</info>
+            <cost>495 руб.</cost>
+            <button>/product</button>
+        </product>
+        <product>
+            <id>3</id>
+            <image>/images/third cm.png</image>
+            <title>Nivona NIGS 130 Café Grano</title>
+            <info>Мощность 102 Вт</info>
+            <info>Ёмкость для зерен 198 г</info>
+            <info>12 x 28 x 21 см</info>
+            <cost>425 руб.</cost>
+            <button>/product</button>
+        </product>
+        <product>
+            <id>4</id>
+            <image>/images/fourth cm.png</image>
+            <title>Sencor SCG 6050SS</title>
+            <info>Мощность 98 Вт</info>
+            <info>Ёмкость для зерен 202 г</info>
+            <info>12 x 28 x 21 см</info>
+            <cost>420 руб.</cost>
+            <button>/product</button>
+        </product>
+        <product>
+            <id>5</id>
+            <image>/images/fifth cm.png</image>
+            <title>Kitfort КТ-7266</title>
+            <info>Мощность 103 Вт</info>
+            <info>Ёмкость для зерен 201 г</info>
+            <info>12 x 28 x 21 см</info>
+            <cost>435 руб.</cost>
+            <button>/product</button>
+        </product>
+        <product>
+            <id>6</id>
+            <image>/images/sixth cm.png</image>
+            <title>Kitfort КТ-7202</title>
+            <info>Мощность 128 Вт</info>
+            <info>Ёмкость для зерен 198 г</info>
+            <info>12 x 28 x 22 см</info>
+            <cost>475 руб.</cost>
+            <button>/product</button>
+        </product>
+    </pre-catalog>
+    <pre-catalog>
+        <product>
+            <id>7</id>
+            <image>/images/first c.png</image>
+            <title>Delonghi KG 521.M</title>
+            <info>Мощность 105 Вт</info>
+            <info>Ёмкость для зерен 205 г</info>
+            <info>12 x 28 x 20 см</info>
+            <cost>3500 руб.</cost>
+            <button>/product</button>
+        </product>
+        <product>
+            <id>8</id>
+            <image>/images/second c.png</image>
+            <title>Bosch TSM6A013B</title>
+            <info>Мощность 115 Вт</info>
+            <info>Ёмкость для зерен 215 г</info>
+            <info>12 x 28 x 23 см</info>
+            <cost>4000 руб.</cost>
+            <button>/product</button>
+        </product>
+        <product>
+            <id>9</id>
+            <image>/images/third c.png</image>
+            <title>Philips HD7762/00</title>
+            <info>Мощность 102 Вт</info>
+            <info>Ёмкость для зерен 198 г</info>
+            <info>12 x 28 x 21 см</info>
+            <cost>3750 руб.</cost>
+            <button>/product</button>
+        </product>
+        <product>
+            <id>10</id>
+            <image>/images/fourth c.png</image>
+            <title>Baratza Encore</title>
+            <info>Мощность 98 Вт</info>
+            <info>Ёмкость для зерен 202 г</info>
+            <info>12 x 28 x 21 см</info>
+            <cost>4200 руб.</cost>
+            <button>/product</button>
+        </product>
+        <product>
+            <id>11</id>
+            <image>/images/fifth c.png</image>
+            <title>Kitfort КТ-7266</title>
+            <info>Мощность 103 Вт</info>
+            <info>Ёмкость для зерен 201 г</info>
+            <info>12 x 28 x 21 см</info>
+            <cost>3850 руб.</cost>
+            <button>/product</button>
+        </product>
+        <product>
+            <id>12</id>
+            <image>/images/sixth c.png</image>
+            <title>Kitfort КТ-7202</title>
+            <info>Мощность 128 Вт</info>
+            <info>Ёмкость для зерен 198 г</info>
+            <info>12 x 28 x 22 см</info>
+            <cost>4500 руб.</cost>
+            <button>/product</button>
+        </product>
+    </pre-catalog>
+</catalog>

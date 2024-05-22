@@ -1,0 +1,109 @@
+main{
+    background: linear-gradient(180deg,#ffffff 0%, #ffcfa3 100%);
+    padding: 60px 0 1px 0;
+    .catalog-coffee{
+        .title-container{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .coffee-machine-title{
+            font-size: 40px;
+            font-weight: 300;
+            text-align: center;
+            text-transform: uppercase;
+            white-space: nowrap;
+            width: 450px;
+            margin: 0 60px;
+        }
+    }
+    .product-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 60px 170px;
+        margin-top: 60px;
+        margin-bottom: 80px;
+    }
+    .product{
+        background-color: rgb(0, 0, 0, 0.7);
+        border-radius: 15px;
+        max-width: fit-content;
+        padding: 10px 10px;
+        color: white;
+        text-align: center;
+        .product-title{
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 15px;
+            margin-top: 10px;
+        }
+        .product-info{
+            font-size: 15px;
+            font-weight: 400;
+            margin-bottom: 10px;
+        }
+        .product-cost{
+            font-size: 24px;
+            font-weight: 400;
+            margin: 10px 0 15px 0;
+        }
+        .product-link{
+            display: inline-block;
+            font-size: 20px;
+            font-weight: 400;
+            padding: 10px 25px;
+            background-color: #FF7A00;
+            border-radius: 15px;
+            color: white;
+            transition: all 0.2s;
+            &:hover{
+                background-color: #b86110; 
+            }
+        }
+    }
+}
+
+@media(max-width: 960px){
+    main{
+        .catalog-coffee{
+            .coffee-machine-title{
+                font-size: 32px;
+                margin: 0 35px;
+            }
+            .product-cost{
+                margin: 25px 0 15px 0;
+            }
+        }
+        .product-container{
+            gap: 50px 10px;
+            justify-content: space-between;
+            margin: 60px 10px 80px 10px;
+        }
+    }
+}
+
+@media(max-width: 720px){
+    main{
+        padding: 125px 0 1px 0;
+        .product-container{
+            justify-content: center;
+        }
+    }
+}
+
+@media(max-width: 480px){
+    main{
+        .catalog-coffee{
+            .coffee-machine-title{
+                font-size: 20px;
+                margin: 0 11px;
+            }
+            .product-container{
+                margin: 50px 0 60px 0;
+                gap: 25px;
+            }
+        }
+    }
+}

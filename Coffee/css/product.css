@@ -1,0 +1,129 @@
+main {
+  background-image: url(/images/product-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+main .product {
+  padding: 60px 10px;
+}
+main .product img {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+main .product .product-images {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+}
+main .product .product-images .product-image {
+  max-width: 40%;
+}
+main .product .product-images .main-product-image {
+  max-width: 40%;
+}
+main .product .product-images .product-images-inner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  gap: 50px;
+  max-width: 48%;
+}
+main .product .product-info {
+  color: white;
+  padding: 50px 0;
+}
+main .product .product-info .product-info-title {
+  font-size: 48px;
+  font-weight: 400;
+  margin-bottom: 25px;
+}
+main .product .product-info .product-info-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+main .product .product-info .product-info-inner-line {
+  display: flex;
+  justify-content: space-between;
+  font-size: 36px;
+  font-weight: 400;
+}
+main .product .product-description {
+  color: white;
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+main .product .product-description .product-description-title {
+  font-size: 48px;
+  margin-bottom: 25px;
+}
+main .product .product-description .product-description-text {
+  font-size: 32px;
+}
+main .product .order-link {
+  font-family: "Istok Web", sans-serif;
+  display: table;
+  font-size: 20px;
+  color: white;
+  padding: 18px 46px;
+  background-color: #FF7A00;
+  border-radius: 20px;
+  margin: 0 auto;
+  transition: all 0.2s;
+}
+main .product .order-link:hover {
+  background-color: #b86110;
+}
+
+@media (max-width: 960px) {
+  main .product .product-images .product-image {
+    max-width: 45%;
+  }
+  main .product .product-images .main-product-image {
+    max-width: 43%;
+  }
+  main .product .product-images .product-images-inner {
+    gap: 25px;
+  }
+}
+@media (max-width: 560px) {
+  main .product .product-images {
+    flex-direction: column;
+    gap: 25px;
+  }
+  main .product .product-images .product-images-inner {
+    max-width: 100%;
+    justify-content: center;
+  }
+  main .product .product-images .main-product-image {
+    max-width: 100%;
+  }
+  main .product .product-images .product-image {
+    max-width: 45%;
+  }
+}
+@media (max-width: 480px) {
+  main .product .product-info {
+    padding: 25px 0;
+  }
+  main .product .product-info .product-info-title {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  main .product .product-info-inner {
+    gap: 15px;
+  }
+  main .product .product-info-inner .product-info-inner-line {
+    font-size: 24px;
+  }
+  main .product .product-description {
+    margin-bottom: 30px;
+  }
+  main .product .product-description .product-description-title {
+    font-size: 36px;
+  }
+  main .product .product-description .product-description-text {
+    font-size: 20px;
+  }
+}/*# sourceMappingURL=product.css.map */

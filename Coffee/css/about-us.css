@@ -1,0 +1,71 @@
+main .about-info .container {
+  display: flex;
+  align-items: center;
+  gap: 70px;
+}
+main .about-info {
+  background-image: url(/images/about-us-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px 10px;
+  color: white;
+}
+main .about-info .about-info-title {
+  font-size: 48px;
+  font-weight: 400;
+}
+main .about-info .about-info-text {
+  padding-top: 50px;
+  font-size: 28px;
+  font-weight: 300;
+}
+main .about-info .about-info-image {
+  min-width: 56%;
+  max-height: 880px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 10px;
+}
+
+@media (max-width: 1280px) {
+  main .about-info .container {
+    flex-direction: column;
+    gap: 50px;
+  }
+  main .about-info .about-info-text {
+    text-align: center;
+    padding-top: 50px;
+  }
+  main .about-info .about-info-image {
+    -o-object-fit: contain;
+       object-fit: contain;
+    min-width: 100%;
+    max-height: 690px;
+  }
+}
+@media (max-width: 960px) {
+  main .about-info .about-info-image {
+    -o-object-fit: cover;
+       object-fit: cover;
+    min-width: 90%;
+    max-height: 690px;
+  }
+}
+@media (max-width: 480px) {
+  main .about-info {
+    padding: 50px 10px 25px 10px;
+  }
+  main .about-info .about-info-title {
+    text-align: center;
+  }
+  main .about-info .about-info-text {
+    font-size: 20px;
+    padding-top: 25px;
+  }
+  main .about-info .about-info-image {
+    -o-object-fit: cover;
+       object-fit: cover;
+    min-width: 90%;
+    max-height: 690px;
+  }
+}/*# sourceMappingURL=about-us.css.map */

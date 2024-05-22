@@ -1,0 +1,362 @@
+<products>
+    <product>
+        <id>1</id>
+        <images>
+            <main-image>/images/11.png</main-image>
+            <image>/images/12.png</image>
+            <image>/images/13.png</image>
+            <image>/images/14.png</image>
+            <image>/images/15.png</image>
+        </images>
+        <information>
+            <information-title>Характеристики:</information-title>
+            <information-line>
+                <information-line-title>Мощность:</information-line-title>
+                <information-line-text>105 Вт</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Емкость для зерен:</information-line-title>
+                <information-line-text>205 г</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Размер:</information-line-title>
+                <information-line-text>12 x 28 x 20 см</information-line-text>
+            </information-line>
+        </information>
+        <description>
+            <description-title>Описание:</description-title>
+            <description-text>Кофемашина Nivona NIGS 130 Café Grano - это роскошное устройство для создания идеального кофе. Она оснащена многоступенчатой системой помола, которая позволяет сохранить вкус и аромат кофейных зерен. Устройство имеет регулируемые настройки помола с 16 различными вариантами, что позволяет получить как грубый помол для кофеварок, так и тонкий помол для эспрессо-машины. Емкость для кофейных зерен составляет 205 г, а мощность устройства - 105 Вт. Кофемашина также оснащена таймером и отсеком для хранения шнура.</description-text>
+        </description>
+        <order-button>form.html</order-button>
+    </product>
+    <product>
+        <id>2</id>
+        <images>
+            <main-image>/images/21.png</main-image>
+            <image>/images/22.png</image>
+            <image>/images/23.png</image>
+            <image>/images/24.png</image>
+            <image>/images/25.png</image>
+        </images>
+        <information>
+            <information-title>Характеристики:</information-title>
+            <information-line>
+                <information-line-title>Мощность:</information-line-title>
+                <information-line-text>115 Вт</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Емкость для зерен:</information-line-title>
+                <information-line-text>215 г</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Размер:</information-line-title>
+                <information-line-text>12 x 28 x 23 см</information-line-text>
+            </information-line>
+        </information>
+        <description>
+            <description-title>Описание:</description-title>
+            <description-text>Кофемашина Kitfort KT-717 - это роскошное устройство для создания идеального кофе. Она оснащена многоступенчатой системой помола, которая позволяет сохранить вкус и аромат кофейных зерен. Устройство имеет регулируемые настройки помола с 16 различными вариантами, что позволяет получить как грубый помол для кофеварок, так и тонкий помол для эспрессо-машины. Емкость для кофейных зерен составляет 215 г, а мощность устройства - 115 Вт. Кофемашина также оснащена таймером и отсеком для хранения шнура.</description-text>
+        </description>
+        <order-button>form.html</order-button>
+    </product>
+    <product>
+        <id>3</id>
+        <images>
+            <main-image>/images/31.png</main-image>
+            <image>/images/32.png</image>
+            <image>/images/33.png</image>
+            <image>/images/34.png</image>
+            <image>/images/35.png</image>
+        </images>
+        <information>
+            <information-title>Характеристики:</information-title>
+            <information-line>
+                <information-line-title>Мощность:</information-line-title>
+                <information-line-text>102 Вт</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Емкость для зерен:</information-line-title>
+                <information-line-text>198 г</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Размер:</information-line-title>
+                <information-line-text>12 x 28 x 21 см</information-line-text>
+            </information-line>
+        </information>
+        <description>
+            <description-title>Описание:</description-title>
+            <description-text>Кофемашина Nivona NIGS 130 Café Grano - это роскошное устройство для создания идеального кофе. Она оснащена многоступенчатой системой помола, которая позволяет сохранить вкус и аромат кофейных зерен. Устройство имеет регулируемые настройки помола с 16 различными вариантами, что позволяет получить как грубый помол для кофеварок, так и тонкий помол для эспрессо-машины. Емкость для кофейных зерен составляет 198 г, а мощность устройства - 102 Вт. Кофемашина также оснащена таймером и отсеком для хранения шнура.</description-text>
+        </description>
+        <order-button>form.html</order-button>
+    </product>
+    <product>
+        <id>4</id>
+        <images>
+            <main-image>/images/41.png</main-image>
+            <image>/images/42.png</image>
+            <image>/images/43.png</image>
+            <image>/images/44.png</image>
+            <image>/images/45.png</image>
+        </images>
+        <information>
+            <information-title>Характеристики:</information-title>
+            <information-line>
+                <information-line-title>Мощность:</information-line-title>
+                <information-line-text>100 Вт</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Емкость для зерен:</information-line-title>
+                <information-line-text>200 г</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Размер:</information-line-title>
+                <information-line-text>12 x 28 x 21 см</information-line-text>
+            </information-line>
+        </information>
+        <description>
+            <description-title>Описание:</description-title>
+            <description-text>Кофемашина Nivona NIGS 130 - это роскошное устройство для создания идеального кофе. Она оснащена многоступенчатой системой помола, которая позволяет сохранить вкус и аромат кофейных зерен. Устройство имеет регулируемые настройки помола с 16 различными вариантами, что позволяет получить как грубый помол для кофеварок, так и тонкий помол для эспрессо-машины. Емкость для кофейных зерен составляет 200 г, а мощность устройства - 100 Вт. Кофемашина также оснащена таймером и отсеком для хранения шнура.</description-text>
+        </description>
+        <order-button>form.html</order-button>
+    </product>
+    <product>
+        <id>5</id>
+        <images>
+            <main-image>/images/51.png</main-image>
+            <image>/images/52.png</image>
+            <image>/images/53.png</image>
+            <image>/images/54.png</image>
+            <image>/images/55.png</image>
+        </images>
+        <information>
+            <information-title>Характеристики:</information-title>
+            <information-line>
+                <information-line-title>Мощность:</information-line-title>
+                <information-line-text>100 Вт</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Емкость для зерен:</information-line-title>
+                <information-line-text>200 г</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Размер:</information-line-title>
+                <information-line-text>12 x 28 x 21 см</information-line-text>
+            </information-line>
+        </information>
+        <description>
+            <description-title>Описание:</description-title>
+            <description-text>Кофемашина Kitfort КТ-7266 - это роскошное устройство для создания идеального кофе. Она оснащена многоступенчатой системой помола, которая позволяет сохранить вкус и аромат кофейных зерен. Устройство имеет регулируемые настройки помола с 16 различными вариантами, что позволяет получить как грубый помол для кофеварок, так и тонкий помол для эспрессо-машины. Емкость для кофейных зерен составляет 200 г, а мощность устройства - 100 Вт. Кофемашина также оснащена таймером и отсеком для хранения шнура.</description-text>
+        </description>
+        <order-button>form.html</order-button>
+    </product>
+    <product>
+        <id>6</id>
+        <images>
+            <main-image>/images/61.png</main-image>
+            <image>/images/62.png</image>
+            <image>/images/63.png</image>
+            <image>/images/64.png</image>
+            <image>/images/65.png</image>
+        </images>
+        <information>
+            <information-title>Характеристики:</information-title>
+            <information-line>
+                <information-line-title>Мощность:</information-line-title>
+                <information-line-text>100 Вт</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Емкость для зерен:</information-line-title>
+                <information-line-text>200 г</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Размер:</information-line-title>
+                <information-line-text>12 x 28 x 21 см</information-line-text>
+            </information-line>
+        </information>
+        <description>
+            <description-title>Описание:</description-title>
+            <description-text>Кофемашина Kitfort КТ-7202 - это роскошное устройство для создания идеального кофе. Она оснащена многоступенчатой системой помола, которая позволяет сохранить вкус и аромат кофейных зерен. Устройство имеет регулируемые настройки помола с 16 различными вариантами, что позволяет получить как грубый помол для кофеварок, так и тонкий помол для эспрессо-машины. Емкость для кофейных зерен составляет 200 г, а мощность устройства - 100 Вт. Кофемашина также оснащена таймером и отсеком для хранения шнура.</description-text>
+        </description>
+        <order-button>form.html</order-button>
+    </product>
+    <product>
+        <id>7</id>
+        <images>
+            <main-image>/images/71.png</main-image>
+            <image>/images/72.png</image>
+            <image>/images/73.png</image>
+            <image>/images/74.png</image>
+            <image>/images/75.png</image>
+        </images>
+        <information>
+            <information-title>Характеристики:</information-title>
+            <information-line>
+                <information-line-title>Мощность:</information-line-title>
+                <information-line-text>100 Вт</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Емкость для зерен:</information-line-title>
+                <information-line-text>200 г</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Размер:</information-line-title>
+                <information-line-text>12 x 28 x 21 см</information-line-text>
+            </information-line>
+        </information>
+        <description>
+            <description-title>Описание:</description-title>
+            <description-text>Кофемашина Delonghi KG 521.M - это роскошное устройство для создания идеального кофе. Она оснащена многоступенчатой системой помола, которая позволяет сохранить вкус и аромат кофейных зерен. Устройство имеет регулируемые настройки помола с 16 различными вариантами, что позволяет получить как грубый помол для кофеварок, так и тонкий помол для эспрессо-машины. Емкость для кофейных зерен составляет 200 г, а мощность устройства - 100 Вт. Кофемашина также оснащена таймером и отсеком для хранения шнура.</description-text>
+        </description>
+        <order-button>form.html</order-button>
+    </product>
+    <product>
+        <id>8</id>
+        <images>
+            <main-image>/images/81.png</main-image>
+            <image>/images/82.png</image>
+            <image>/images/83.png</image>
+            <image>/images/83.png</image>
+            <image>/images/83.png</image>
+        </images>
+        <information>
+            <information-title>Характеристики:</information-title>
+            <information-line>
+                <information-line-title>Мощность:</information-line-title>
+                <information-line-text>100 Вт</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Емкость для зерен:</information-line-title>
+                <information-line-text>200 г</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Размер:</information-line-title>
+                <information-line-text>12 x 28 x 21 см</information-line-text>
+            </information-line>
+        </information>
+        <description>
+            <description-title>Описание:</description-title>
+            <description-text>Кофемашина Bosch TSM6A013B - это роскошное устройство для создания идеального кофе. Она оснащена многоступенчатой системой помола, которая позволяет сохранить вкус и аромат кофейных зерен. Устройство имеет регулируемые настройки помола с 16 различными вариантами, что позволяет получить как грубый помол для кофеварок, так и тонкий помол для эспрессо-машины. Емкость для кофейных зерен составляет 200 г, а мощность устройства - 100 Вт. Кофемашина также оснащена таймером и отсеком для хранения шнура.</description-text>
+        </description>
+        <order-button>form.html</order-button>
+    </product>
+    <product>
+        <id>9</id>
+        <images>
+            <main-image>/images/91.png</main-image>
+            <image>/images/92.png</image>
+            <image>/images/93.png</image>
+            <image>/images/94.png</image>
+            <image>/images/92.png</image>
+        </images>
+        <information>
+            <information-title>Характеристики:</information-title>
+            <information-line>
+                <information-line-title>Мощность:</information-line-title>
+                <information-line-text>100 Вт</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Емкость для зерен:</information-line-title>
+                <information-line-text>200 г</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Размер:</information-line-title>
+                <information-line-text>12 x 28 x 21 см</information-line-text>
+            </information-line>
+        </information>
+        <description>
+            <description-title>Описание:</description-title>
+            <description-text>Кофемашина Philips HD7762/00 - это роскошное устройство для создания идеального кофе. Она оснащена многоступенчатой системой помола, которая позволяет сохранить вкус и аромат кофейных зерен. Устройство имеет регулируемые настройки помола с 16 различными вариантами, что позволяет получить как грубый помол для кофеварок, так и тонкий помол для эспрессо-машины. Емкость для кофейных зерен составляет 200 г, а мощность устройства - 100 Вт. Кофемашина также оснащена таймером и отсеком для хранения шнура.</description-text>
+        </description>
+        <order-button>form.html</order-button>
+    </product>
+    <product>
+        <id>10</id>
+        <images>
+            <main-image>/images/101.png</main-image>
+            <image>/images/102.png</image>
+            <image>/images/103.png</image>
+            <image>/images/104.png</image>
+            <image>/images/105.png</image>
+        </images>
+        <information>
+            <information-title>Характеристики:</information-title>
+            <information-line>
+                <information-line-title>Мощность:</information-line-title>
+                <information-line-text>100 Вт</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Емкость для зерен:</information-line-title>
+                <information-line-text>200 г</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Размер:</information-line-title>
+                <information-line-text>12 x 28 x 21 см</information-line-text>
+            </information-line>
+        </information>
+        <description>
+            <description-title>Описание:</description-title>
+            <description-text>Кофемашина Baratza Encore - это роскошное устройство для создания идеального кофе. Она оснащена многоступенчатой системой помола, которая позволяет сохранить вкус и аромат кофейных зерен. Устройство имеет регулируемые настройки помола с 16 различными вариантами, что позволяет получить как грубый помол для кофеварок, так и тонкий помол для эспрессо-машины. Емкость для кофейных зерен составляет 200 г, а мощность устройства - 100 Вт. Кофемашина также оснащена таймером и отсеком для хранения шнура.</description-text>
+        </description>
+        <order-button>form.html</order-button>
+    </product>
+    <product>
+        <id>11</id>
+        <images>
+            <main-image>/images/111.png</main-image>
+            <image>/images/112.png</image>
+            <image>/images/113.png</image>
+            <image>/images/114.png</image>
+            <image>/images/115.png</image>
+        </images>
+        <information>
+            <information-title>Характеристики:</information-title>
+            <information-line>
+                <information-line-title>Мощность:</information-line-title>
+                <information-line-text>100 Вт</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Емкость для зерен:</information-line-title>
+                <information-line-text>200 г</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Размер:</information-line-title>
+                <information-line-text>12 x 28 x 21 см</information-line-text>
+            </information-line>
+        </information>
+        <description>
+            <description-title>Описание:</description-title>
+            <description-text>Кофемашина Kitfort КТ-7266 - это роскошное устройство для создания идеального кофе. Она оснащена многоступенчатой системой помола, которая позволяет сохранить вкус и аромат кофейных зерен. Устройство имеет регулируемые настройки помола с 16 различными вариантами, что позволяет получить как грубый помол для кофеварок, так и тонкий помол для эспрессо-машины. Емкость для кофейных зерен составляет 200 г, а мощность устройства - 100 Вт. Кофемашина также оснащена таймером и отсеком для хранения шнура.</description-text>
+        </description>
+        <order-button>form.html</order-button>
+    </product>
+    <product>
+        <id>12</id>
+        <images>
+            <main-image>/images/121.png</main-image>
+            <image>/images/122.png</image>
+            <image>/images/123.png</image>
+            <image>/images/124.png</image>
+            <image>/images/125.png</image>
+        </images>
+        <information>
+            <information-title>Характеристики:</information-title>
+            <information-line>
+                <information-line-title>Мощность:</information-line-title>
+                <information-line-text>100 Вт</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Емкость для зерен:</information-line-title>
+                <information-line-text>200 г</information-line-text>
+            </information-line>
+            <information-line>
+                <information-line-title>Размер:</information-line-title>
+                <information-line-text>12 x 28 x 21 см</information-line-text>
+            </information-line>
+        </information>
+        <description>
+            <description-title>Описание:</description-title>
+            <description-text>Кофемашина Kitfort КТ-7202 - это роскошное устройство для создания идеального кофе. Она оснащена многоступенчатой системой помола, которая позволяет сохранить вкус и аромат кофейных зерен. Устройство имеет регулируемые настройки помола с 16 различными вариантами, что позволяет получить как грубый помол для кофеварок, так и тонкий помол для эспрессо-машины. Емкость для кофейных зерен составляет 200 г, а мощность устройства - 100 Вт. Кофемашина также оснащена таймером и отсеком для хранения шнура.</description-text>
+        </description>
+        <order-button>form.html</order-button>
+    </product>
+</products>
